@@ -34,3 +34,4 @@ return $(template);
     $collectionContainer.append($newThumbnail);
       }
     });
+    
